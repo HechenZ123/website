@@ -8,4 +8,4 @@ About this site
 1 + 1
 ```
 
-[My CV](resources/cv.pdf)
+[My CV](cv.pdf)
