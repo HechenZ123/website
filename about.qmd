@@ -8,4 +8,4 @@ About this site
 1 + 1
 ```
 
-[My CV](cv.pdf)
+[My CV](HECHEN_ZHANG_CV.pdf)
