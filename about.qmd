@@ -2,10 +2,10 @@
 title: "About"
 ---
 
-About this site
+Welcome to my portfolio website. This digital space is designed to showcase my academic background, work experiences, and the skills I've cultivated throughout my journey in the field of Mathematics and Statistics. As a dedicated student at the University of Toronto, I've developed a deep appreciation for the intricacies of data analysis, problem-solving, and effective communication.
 
-```{r}
-1 + 1
-```
+The purpose of this website is to provide a comprehensive view of my academic endeavors. Here, you'll find details about my educational achievements, key projects, internships, and the valuable experiences I've gained along the way.
+
+Thank you for visiting. I invite you to explore my site and learn about my journey. My CV is attached below for further details.
 
 [My CV](HECHEN_ZHANG_CV.pdf)

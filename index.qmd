@@ -1,11 +1,9 @@
 ---
-title: "STA302website"
+title: "Hechen Zhang's Website"
 ---
 
-This is a Quarto website.
+I am an industrious and dynamic student pursuing a Bachelor of Science in Mathematics and Statistics at the prestigious University of Toronto, with an anticipated graduation date of June 2024. I am recognized for an unparalleled dedication to excellence, exceptional problem-solving abilities, and effective collaboration skills. Fluent in English and Mandarin, I utilize my linguistic abilities to enhance team communication and project effectiveness.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+With a strong foundation in data analysis and modeling, alongside proficiency in the Microsoft Office Suite, I demonstrate a quick learning curve and a resourceful approach to tackling complex challenges. During my internship at China Guangfa Bank in Liaoning, China, I honed my professional skills, excelling in time management, effective communication, and the practical application of academic knowledge to real-world scenarios. I received commendable feedback from supervisors for my commitment to personal growth, ability to maintain organized and efficient work environments, and consistent delivery of high-quality work.
 
-```{r}
-1 + 1
-```
+My educational background, combined with my practical work experience, illustrates my dedication to advancing my career path and expanding my professional expertise. As a committed team player, I am always ready to contribute to my team's success, proving myself to be a reliable and dedicated member in any professional setting.
